@@ -55,6 +55,13 @@
 `It could include abroad keywords related to quadrupedal walking robots, e.g. control methods or reinforcement learning`
 
 <details>
+<summary><b>2026</b></summary>
+
+- [Teaching Robots Like Dogs: Learning Agile Navigation from Luring, Gesture, and Speech](https://arxiv.org/abs/2601.08422)
+
+</details>
+
+<details>
 <summary><b>2025</b></summary>
 
 - [Adaptive Non-linear Centroidal MPC with Stability Guarantees for Robust Locomotion of Legged Robots](https://arxiv.org/pdf/2409.01144)
