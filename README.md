@@ -71,6 +71,7 @@
 - [CAIMAN: Causal Action Influence Detection for Sample Efficient Loco-manipulation](https://arxiv.org/abs/2502.00835)
 - [Disturbance-Aware Adaptive Compensation in Hybrid Force-Position Locomotion Policy for Legged Robots](https://arxiv.org/pdf/2506.00472)
 - [FACET: Force-Adaptive Control via Impedance Reference Tracking for Legged Robots](https://arxiv.org/abs/2505.06883)
+- [Floating-Base Deep Lagrangian Networks](https://arxiv.org/abs/2510.17270)
 - [Generating Diverse Challenging Terrains for Legged Robots Using Quality-Diversity Algorithm](https://arxiv.org/pdf/2506.01362)
 - [Learning coordinated badminton skills for legged manipulators](https://arxiv.org/abs/2505.22974)
 - [Learning Steerable Imitation Controllers from Unstructured Animal Motions](https://arxiv.org/pdf/2507.00677)
