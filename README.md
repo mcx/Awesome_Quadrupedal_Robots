@@ -82,6 +82,7 @@
 - [Long-horizon Locomotion and Manipulation on a Quadrupedal Robot with Large Language Models](https://arxiv.org/abs/2404.05291)
 - [MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models](https://arxiv.org/abs/2503.08007)
 - [MuJoCo Playground](https://www.arxiv.org/abs/2502.08844)
+- [Multi-Quadruped Cooperative Object Transport: Learning Decentralized Pinch-Lift-Move](https://arxiv.org/abs/2509.14342)
 - [NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models](https://arxiv.org/abs/2503.10626)
 - [Obstacle-Avoidant Leader Following with a Quadruped Robot](https://arxiv.org/pdf/2410.00572)
 - [Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments](https://arxiv.org/abs/2505.19214)
