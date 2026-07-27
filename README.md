@@ -59,6 +59,7 @@
 
 - [AME-2: Agile and Generalized Legged Locomotion via Attention-Based Neural Map Encoding](https://arxiv.org/abs/2601.08485)
 - [Attention-Based Neural-Augmented Kalman Filter for Legged Robot State Estimation](https://doi.org/10.1109/LRA.2026.3664311)
+- [AutoPath: Learning Transferable Goal-Conditioned Stochastic Path Prior for Safe Navigation Without Human Demonstrations](https://arxiv.org/abs/2607.11739)
 - [Dual-Horizon Hybrid Internal Model for Low-Gravity Quadrupedal Jumping with Hardware-in-the-Loop Validation](https://arxiv.org/abs/2603.07999)
 - [Energy Prediction on Sloping Ground for Quadruped Robots](https://arxiv.org/abs/2603.11963)
 - [Feedback-MPPI: Fast Sampling-Based MPC via Rollout Differentiation -- Adios Low-Level Controllers](https://arxiv.org/abs/2506.14855)
@@ -1070,8 +1071,8 @@
 
 <details><summary><b>&nbsp;&nbsp;- Learning-based: Imitation</b></summary>
 
-- [![](https://img.shields.io/badge/GalaxyGeneralRobotics-LATENT-black?style=flat-square&logo=github)](https://github.com/GalaxyGeneralRobotics/LATENT) <img src="https://img.shields.io/github/stars/GalaxyGeneralRobotics/LATENT?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/EgoHumanoid-lightblue?style=flat-square)](https://opendrivelab.com/EgoHumanoid) [![](https://img.shields.io/badge/OpenDriveLab-EgoHumanoid-black?style=flat-square&logo=github)](https://github.com/OpenDriveLab/EgoHumanoid) <img src="https://img.shields.io/github/stars/OpenDriveLab/EgoHumanoid?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/GalaxyGeneralRobotics-LATENT-black?style=flat-square&logo=github)](https://github.com/GalaxyGeneralRobotics/LATENT) <img src="https://img.shields.io/github/stars/GalaxyGeneralRobotics/LATENT?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/lecar--lab-hdmi-black?style=flat-square&logo=github)](https://github.com/lecar-lab/hdmi) <img src="https://img.shields.io/github/stars/lecar-lab/hdmi?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/NVlabs-ProtoMotions-black?style=flat-square&logo=github)](https://github.com/NVlabs/ProtoMotions) <img src="https://img.shields.io/github/stars/NVlabs/ProtoMotions?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/EGalahad-sim2real-black?style=flat-square&logo=github)](https://github.com/EGalahad/sim2real) <img src="https://img.shields.io/github/stars/EGalahad/sim2real?style=flat-square&color=yellow">
