@@ -73,6 +73,7 @@
 - [Reinforcement Learning for Robust Climbing Locomotion With Rope-Driven Legged Robot](https://doi.org/10.1109/LRA.2026.3665321)
 - [START: Traversing Sparse Footholds With Terrain Reconstruction](https://doi.org/10.1109/LRA.2025.3645649)
 - [Teaching Robots Like Dogs: Learning Agile Navigation from Luring, Gesture, and Speech](https://arxiv.org/abs/2601.08422)
+- [WARL: Wrench-Augmented Reinforcement Learning for Task-Agnostic Learning in Legged Robots](https://arxiv.org/abs/2607.24036)
 
 </details>
 
